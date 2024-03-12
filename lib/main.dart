@@ -182,7 +182,7 @@ class HomeScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                'Bienvenue sur l\'application météo de Bamba et ibra ',
+                'Bienvenue sur l\'application météo  ',
                 style: TextStyle(
                   fontSize: 32.0,
                   fontWeight: FontWeight.bold,

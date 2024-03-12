@@ -13,7 +13,7 @@ class ProgressScreen extends StatefulWidget {
 }
 
 class _ProgressScreenState extends State<ProgressScreen> {
-  List<String> cities = ['Dakar', 'Diourbel', 'Tambacounda', 'Kaffrine', 'Touba', 'Thiès', 'Mbour'];
+  List<String> cities = ['Dakar', 'Diourbel', 'Tambacounda', 'Touba', 'Mbour'];
   Map<String, Map<String, dynamic>> _weatherData = {};
   double _progress = 0;
   bool _isFetching = true;
